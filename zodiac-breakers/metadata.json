@@ -1,0 +1,6 @@
+{
+  "name": "Zodiac Breakers",
+  "description": "Tactical 2D top-down competitive action game combining zodiac character builds, grid destruction, explosive bombs, cards, and ranking ladder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
